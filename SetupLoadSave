@@ -1,4 +1,4 @@
-//29.8.2015 Jakub Ivanič
+//29.8.2015 Jakub Ivanič C#
 using UnityEngine;
 using System.Text.RegularExpressions;
 using System.IO;

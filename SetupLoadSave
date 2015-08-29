@@ -7,7 +7,6 @@ using System.IO;
 public class SetupLoadSave : MonoBehaviour {
 	
 	string setupFileText="";
-	string[] dataLines;
 	//Component yourComponent;
 	[HideInInspector]
 	public bool	loadingSetup=false;
